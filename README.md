@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0790-domino-and-tromino-tiling](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 ## Two Pointers
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
