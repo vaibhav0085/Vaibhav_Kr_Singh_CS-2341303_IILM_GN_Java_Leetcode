@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0541-reverse-string-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhavcs27-svg/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0049-group-anagrams) |
+| [0541-reverse-string-ii](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/0541-reverse-string-ii) |
 | [2833-furthest-point-from-origin](https://github.com/vaibhav0085/Vaibhav_Kr_Singh_CS-2341303_IILM_GN_Java_Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Tree
 |  |
